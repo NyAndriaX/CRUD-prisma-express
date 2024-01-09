@@ -1,0 +1,6 @@
+{
+  "exec": "ts-node -r tsconfig-paths/register src/server.ts",
+  "ext": "ts",
+  "quiet": true,
+  "ignore": ["node_modules/"]
+}
